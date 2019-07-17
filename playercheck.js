@@ -1,4 +1,4 @@
-alert("click on playerone and playertwo buttons!And continue playing")
+alert("click on playerone and playertwo buttons!And continue playing");
 var p1button=document.querySelector("#p1");
 var p2button=document.getElementById("p2");
 var resetbutton=document.getElementById("reset");
