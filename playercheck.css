@@ -1,0 +1,28 @@
+.winner{
+	color:green;
+}
+body{
+	text-align: center;
+	font-size: 30px;
+	margin-top:100px;
+	background:url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/2503094/910/607/m1/fpnw/wm1/game_background_130-.jpg?1491389381&s=c08b3be2ed8bea1644e27c7977de25cb");
+	background-repeat:no-repeat;
+	background-size: cover; 
+}
+button{
+	margin-top:35px;
+}
+.btn{
+	border-radius: 10px;
+}
+::placeholder{
+	font-size:24px;
+	text-align: center;
+	color:#a862ea;
+	margin-top:5px;
+}	
+input{
+	border-radius:10px;
+	border-color:white;
+	border: 0px;
+}
